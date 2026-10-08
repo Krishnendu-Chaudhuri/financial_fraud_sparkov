@@ -98,7 +98,7 @@ Side-by-side ROC and Precision-Recall curves for all six models are produced at 
 
 ---
 
-## Key take-aways (from the notebook)
+## Key take-aways :
 
 1. Class imbalance dominates – always report **PR-AUC** and a validation-chosen threshold, not accuracy.
 2. **XGBoost** remains an extremely strong and practical baseline for tabular fraud data.
